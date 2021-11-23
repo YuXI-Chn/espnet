@@ -1,0 +1,12 @@
+loss_types: ALoss BLoss Closs DLoss
+loss_weights: 0.25 0.25 0.25 0.25
+loss_confs:
+    ALoss:
+      alpha1: 10
+      alpha2: 20
+    BLoss:
+      belta1: 10
+      belta2: 20
+    CLoss:
+      gamma1: 10
+      gamma2: 20
